@@ -1,4 +1,4 @@
-icons-sprite-grid
+Icons sprite grid
 =================
 
-Photoshop layers for icons sprite.
+Photoshop layers for handmade icons sprite.
